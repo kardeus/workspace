@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="nl100">#ffffff</color>
+    <color name="nd82">#D1ffffff</color>
+    <color name="nd72">#B8ffffff</color>
+
+
+    <color name="nd100">#000000</color>
+    <color name="nd48">#7A000000</color>
+    <color name="nd32">#52000000</color>
+    <color name="nd24">#3D000000</color>
+    <color name="nd18">#2E000000</color>
+    <color name="nd06">#0F000000</color>
+    <color name="nd02">#05000000</color>
+
+</resources>
